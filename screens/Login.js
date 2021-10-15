@@ -12,7 +12,7 @@ import {
 } from "react-native";
 import firebase from "firebase";
 
-const bgImage = require("../assets/background1.png");
+const bgImage = require("../assets/background2.png");
 const appIcon = require("../assets/appIcon.png");
 const appName = require("../assets/appName.png");
 
